@@ -1,6 +1,5 @@
 # yalu
-source code of an incomplete ios 8.4.1 jailbreak.
+untethered ios 8.4.1 jailbreak.
 
-Run the following command to download and try out the jailbreak on a Mac OS X system with XCODE.
-
-```git clone https://github.com/kpwn/yalu && cd yalu && ./run.sh```
+read :
+Released on GitHub, yalu for 8.4.1 supports various unknown devices. Some users have managed to use the code released to achieve a fully untethered jailbreak, but nothing has been publicly released.
